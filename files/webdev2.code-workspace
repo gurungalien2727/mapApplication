@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "/Users/aliengurung/Desktop/webdev2"
+	},
+	{
+		"path": "."
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "webdev2"
+  }
+}
